@@ -1,2 +1,3 @@
 # berkeleyhci.github.io
-Berkeley HCI
+
+Redirect to Berkeley HCI
