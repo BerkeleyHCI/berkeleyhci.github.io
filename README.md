@@ -1,3 +1,3 @@
-# berkeleyhci.github.io
+# [berkeleyhci.github.io](https://berkeleyhci.github.io)
 
-Redirect to Berkeley HCI
+Redirect to Berkeley HCI - https://hci.berkeley.edu/
